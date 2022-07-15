@@ -1,5 +1,5 @@
 export default function InitialPage() {
     return (
-        <>Initial Page</>
+        <>Initial Pageeee</>
     )
 }
